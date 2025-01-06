@@ -5,11 +5,15 @@ public class KyuSix
         int result = 0;
         for (int i = 0; i < value; i++)
         {
-            Console.WriteLine(i);
-            i % 3 = 1;
-            i % 5 =
-            result += i;
+            //Console.WriteLine(i);
+            if (i % 3 == 0 || i % 5 == 0)
+            {
+                result += i;
+            }
+
+            //i % 3 = 1;
+
         }
-        return 0;
+        return result;
     }
 }

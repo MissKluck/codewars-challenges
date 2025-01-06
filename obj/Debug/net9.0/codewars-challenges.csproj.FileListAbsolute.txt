@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/codewars-challenges/bin/Debug/net9.0/codewars-challenges
+/Users/Sigrid/Documents/C#/codewars-challenges/bin/Debug/net9.0/codewars-challenges.deps.json
+/Users/Sigrid/Documents/C#/codewars-challenges/bin/Debug/net9.0/codewars-challenges.runtimeconfig.json
+/Users/Sigrid/Documents/C#/codewars-challenges/bin/Debug/net9.0/codewars-challenges.dll
+/Users/Sigrid/Documents/C#/codewars-challenges/bin/Debug/net9.0/codewars-challenges.pdb
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.sourcelink.json
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.dll
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/refint/codewars-challenges.dll
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.pdb
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/codewars-challenges.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/codewars-challenges/obj/Debug/net9.0/ref/codewars-challenges.dll
