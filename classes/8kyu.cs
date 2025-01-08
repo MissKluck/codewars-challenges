@@ -1,8 +1,10 @@
+using System.ComponentModel;
+
 public class KyuEight
 {
-    // alternate solution; return number % 2 == 0 ? "Even" : "Odd";
     public static string EvenOrOdd(int number)
     {
+        // alternate solution; return number % 2 == 0 ? "Even" : "Odd";
         if (number % 2 == 0)
         {
             return "Even";
@@ -12,5 +14,26 @@ public class KyuEight
             return "Odd";
         }
         // Code goes here ...
+    }
+
+    public static int Litres(double time)
+    {
+        //The fun begins here.
+
+        return 0;
+    }
+
+    public static string NumberToString(int num)
+    {
+        // code here
+        Int32Converter
+    }
+
+    public static string Solution(string str)
+    {
+        throw new NotImplementedException("TODO: Kata.Solution(string) => string");
+        char[] charArray = str.ToArray();
+        Array.Reverse(charArray);
+        return new string(charArray);
     }
 }
