@@ -25,7 +25,7 @@ public class KyuEight
 
     public static string NumberToString(int num)
     {
-        // code here
+        // alternte solution which was close to what I was thinking originally; return num.ToString();
         string myString;
         return myString = num.ToString();
     }
