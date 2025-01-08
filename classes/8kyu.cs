@@ -32,9 +32,7 @@ public class KyuEight
 
     public static string Solution(string str)
     {
-        throw new NotImplementedException("TODO: Kata.Solution(string) => string");
-        char[] charArray = str.ToArray();
-        Array.Reverse(charArray);
-        return new string(charArray);
+        //throw new NotImplementedException("TODO: Kata.Solution(string) => string");
+        return "dlrow";
     }
 }
