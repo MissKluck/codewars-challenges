@@ -26,7 +26,8 @@ public class KyuEight
     public static string NumberToString(int num)
     {
         // code here
-        Int32Converter
+        string myString;
+        return myString = num.ToString();
     }
 
     public static string Solution(string str)
