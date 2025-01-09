@@ -33,7 +33,10 @@ public class KyuEight
     public static string Solution(string str)
     {
         //https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/csharp
+        //alternate solution from codewars; return new string(str.ToArray().Reverse().ToArray());
         //throw new NotImplementedException("TODO: Kata.Solution(string) => string");
-        return "dlrow";
+        char[] charArray = str.ToCharArray();
+        Array.Reverse(charArray);
+        return new string(charArray);
     }
 }
