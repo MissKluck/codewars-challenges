@@ -2,6 +2,7 @@ public class KyuSix
 {
     public int Multiples(int value)
     {
+        //https://www.codewars.com/kata/514b92a657cdc65150000006
         int result = 0;
         for (int i = 0; i < value; i++)
         {
