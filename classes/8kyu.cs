@@ -19,7 +19,22 @@ public class KyuEight
     public static int Litres(double time)
     {
         //https://www.codewars.com/kata/582cb0224e56e068d800003c/train/csharp
-        return 0;
+        int litres = 0;
+        if (time > 1)
+        {
+            double water = 0.5;
+            litres = (int)(time * water);
+            return litres;
+        }
+        else
+        {
+            return 0;
+        }
+        //the reason this works is because we put (int) before (time * water), which converts the double time to int before it multiplies
+        //alternate solution from codewars; 
+        //return (int)(time/2);
+        //public static int Litres(double time) => (int)(time*0.5);
+
     }
 
     public static string NumberToString(int num)
